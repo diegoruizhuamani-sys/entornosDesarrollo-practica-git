@@ -1,0 +1,5 @@
+commit a8e4969ea6686c4f6e5fa5084dbeeff8b01e755c
+Author: Diego Ruiz <diegoruizhuamani@gmail.com>
+Date:   Mon Nov 9 21:20:58 2026 +0100
+
+    Proyecto con los archivos base
